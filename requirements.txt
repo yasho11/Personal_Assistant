@@ -1,0 +1,6 @@
+notion-client
+SpeechRecognition
+PyAudio
+pyttsx3
+spacy
+python-dotenv
