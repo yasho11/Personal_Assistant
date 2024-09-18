@@ -73,6 +73,9 @@ venv.bak/
 # VS Code
 .vscode/
 
+#Optional
+credentials.json
+token.json
 # Sublime Text
 *.sublime-workspace
 *.sublime-project

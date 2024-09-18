@@ -1,1 +1,2 @@
 ERROR:root:Failed to add task: API token is invalid.
+ERROR:root:Failed to authenticate with Google Calendar: [Errno 2] No such file or directory: 'credentials.json'
